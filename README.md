@@ -1,2 +1,2 @@
-# thehydrantarts\
-https://abdirizak-byte.github.io/thehydrantarts/
+# thehydrants
+https://avelauw.github.io/TheHydrants/
